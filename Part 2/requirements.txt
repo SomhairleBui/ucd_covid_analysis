@@ -1,0 +1,11 @@
+py -m pip install pandas
+py -m pip install matplotlib.pyplot
+py -m pip install numpy
+py -m pip install sklearn
+py -m pip install sklearn.metrics
+py -m pip install graphviz
+py -m pip install sklearn.tree
+py -m pip install scipy.stats
+py -m pip install imbalanced-learn
+py -m pip install imblearn
+

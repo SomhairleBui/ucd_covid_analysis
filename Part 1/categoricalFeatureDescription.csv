@@ -1,0 +1,9 @@
+,count,unique,top,freq
+current_status,9159,2,Laboratory-confirmed case,8519
+sex,9159,4,Female,4669
+age_group,9159,10,20 - 29 Years,1694
+race_ethnicity_combined,9159,9,Unknown,3306
+hosp_yn,9159,4,No,5011
+icu_yn,9159,4,Missing,6887
+death_yn,9159,2,No,8810
+medcond_yn,9159,4,Missing,6731
